@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#caffe files
+*.caffemodel
+*.solverstate
+
+# datas
+datas/
+*.bmp
